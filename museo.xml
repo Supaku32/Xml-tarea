@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--No estoy seguro de entender correctamente la tarea -->
+
+<listademuseos>
+    <museo>
+        <nombre>Louvre</nombre>
+      <obra Nombre="Monalisa" Autor="Da Vinci" />     
+       <Lugartop>1</Lugartop>
+   <Pais>Paris</Pais>               
+    </museo>
+        
+    <museo>
+        <nombre>El padro</nombre>
+     <obra Nombre="meninas" Autor="Diego Velazquez" />     
+      <Lugartop>2</Lugartop>
+       <Pais>Madrid</Pais> 
+    </museo>
+
+
+    <museo>
+        <nombre>museo Britanico</nombre>
+     <obra Nombre="Piedra de rosetta" Autor="Unknown"/>       
+      <Lugartop>3</Lugartop>
+     <Pais>Londres</Pais>  
+    </museo>
+
+</listademuseos>
